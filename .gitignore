@@ -1,0 +1,5 @@
+*.pdf
+*.docx
+_arc/
+.vscode
+*.tmp
